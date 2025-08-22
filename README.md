@@ -1,6 +1,6 @@
 
 # Financial Advisory
-### !!!! it has some deployment problem its azure url will not working properly................
+
 **AI-powered financial advisory bot** that delivers intelligent buy/sell suggestions for publicly traded companies.
 
 ---
