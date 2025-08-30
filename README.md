@@ -4,7 +4,7 @@
 **AI-powered financial advisory bot** that delivers intelligent buy/sell suggestions for publicly traded companies.
 
 ---
-
+### there is problem in deployment that why its not working --- there may problem of choosing version of python in python  or may be due to requirement file
 ## Live Demo
 
 [Explore the live application](https://ai-financial-advisory-crchgje8bsb5chhg.centralindia-01.azurewebsites.net/) *(Hosted on Azure Web App)* :contentReference[oaicite:0]{index=0}
