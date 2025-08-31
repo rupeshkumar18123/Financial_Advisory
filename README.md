@@ -5,6 +5,8 @@
 
 ---
 ### !!!!!!!!! there is problem in deployment that why its not working --- there may problem of choosing version of python in python  or may be due to requirement file
+
+### still working on it and try to resolve it ---- 
 ## Live Demo
 
 [Explore the live application](https://ai-financial-advisory-crchgje8bsb5chhg.centralindia-01.azurewebsites.net/) *(Hosted on Azure Web App)* :contentReference[oaicite:0]{index=0}
