@@ -4,7 +4,7 @@
 **AI-powered financial advisory bot** that delivers intelligent buy/sell suggestions for publicly traded companies.
 
 ---
-### !!!!! there is problem in deployment that why its not working --- there may problem of choosing version of python in python  or may be due to requirement file
+
 
 
 ## Live Demo
